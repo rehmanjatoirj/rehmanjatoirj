@@ -1,4 +1,4 @@
-# Hi, I'm Rehman Jatoi | Backend & REST API Developer 🚀
+# Hi, I'm Rehman Jatoi | Backend & REST API Developer 
 
 I build scalable, secure, and high-performance server-side applications. Currently focused on mastering the MERN stack and building robust RESTful architectures.
 
